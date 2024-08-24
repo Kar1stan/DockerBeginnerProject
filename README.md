@@ -6,7 +6,7 @@ Simple docker project with Dockerfile
 
 Before you use this project you only need to have Docker installed in your computer.
 
-https://www.jetbrains.com/ru-ru/pycharm/download/#section=windows
+https://www.docker.com/products/docker-desktop/
 
 ### Git clone
 This will clone the project, install NPM packages and also the Cypres.io which is required to run the test. No Selenium Server is required.
@@ -16,7 +16,7 @@ $ cd DockerBeginnerProject
 $ npm install
 ```
 
-## 🚀 Run the project: 
+## 🚀 Run the Dockerfile: 
 Open the terminal and run:
 ```
 $ docker build -t dproject .
