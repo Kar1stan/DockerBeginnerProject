@@ -13,7 +13,6 @@ This will clone the project.
 ```
 $ git clone https://github.com/Kar1stan/DockerBeginnerProject.git
 $ cd DockerBeginnerProject
-$ npm install
 ```
 
 ## 🚀 Run the Dockerfile: 
